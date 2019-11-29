@@ -33,3 +33,12 @@ navigator.mediaDevices.getUserMedia(constraints).
 # command
   
   useCamera()
+  
+  
+  # commands:
+  
+  useCamera()
+  
+  displayPopUp()
+  
+  
