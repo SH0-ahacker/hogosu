@@ -41,6 +41,8 @@ navigator.mediaDevices.getUserMedia(constraints).
   
   displayPopUp()
   
+  # and others...
+  
   
   # explication...
   
