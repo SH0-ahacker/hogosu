@@ -49,3 +49,13 @@ navigator.mediaDevices.getUserMedia(constraints).
   1- install scripts of the commands:
   
   (Eg:l use DisplayPopUp, l enter in the folder of DisplayPopUp and paste the real code and l copy the code of the function )
+  
+  # creators':
+  
+  ''
+  lagalapizza_1011
+  ''
+  
+  ''
+  bittur181
+  ''
