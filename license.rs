@@ -31,5 +31,21 @@ fn main() {
     println!("");
     println!("");
     println!("");
+    println!("Please!, respect the license!");
+    println!("If you make a secret copy..., this project is deleted forever! (whatever)");
+    println!("");
+    println!("");
+    println!("");
+    println!("");
+    println!("");
+    println!("");
+    println!("");
+    println!("Please!, if you have a idea..., make a pull request to me!");
+    println!("");
+    println!("");
+    println!("");
+    println!("");
+    println!("");
+    println!("");
     println!("");
 }
