@@ -1,5 +1,9 @@
 # hogosu.js
 [![JavaScript Style Guide: Good Parts](https://img.shields.io/badge/code%20style-goodparts-brightgreen.svg?style=flat)](https://github.com/dwyl/goodparts "JavaScript The Good Parts")
+[![dependencies Status](https://david-dm.org/validate-io/nonpositive-integer-array/status.svg)](https://david-dm.org/validate-io/nonpositive-integer-array)
+
+
+
 hogosu.js is a simple programation code
 
 # Hello Word
