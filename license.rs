@@ -1,0 +1,35 @@
+fn main() {
+    println!("Hello!, This the about of the license of hogosu.js!");
+    println!("");
+    println!("");
+    println!("");
+    println!("");
+    println!("The license of hogosu.js is MIT!");
+    println!("MIT license:");
+    println!("");
+    println!("MIT License");
+    println!("");
+    println!("Copyright (c) 2019 lagalapizza_1011 & bittur181");
+    println!("");
+    println!("Permission is hereby granted, free of charge, to any person obtaining a copy");
+    println!("of this software and associated documentation files (the Software), to deal");
+    println!("in the Software without restriction, including without limitation the rights");
+    println!("to use, copy, modify, merge, publish, distribute, sublicense, and/or sell");
+    println!("copies of the Software, and to permit persons to whom the Software is");
+    println!("furnished to do so, subject to the following conditions:");
+    println!("The above copyright notice and this permission notice shall be included in all");
+    println!("copies or substantial portions of the Software.");
+    println!("");
+    println!("THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR");
+    println!("IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,");
+    println!("FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE");
+    println!("AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER");
+    println!("LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,");
+    println!("OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE");
+    println!("");
+    println!("");
+    println!("");
+    println!("");
+    println!("");
+    println!("");
+}
