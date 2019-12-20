@@ -83,4 +83,4 @@ navigator.mediaDevices.getUserMedia(constraints).
 # wow wow wow wow wow
 
 
-_*WOW!, 200 HITS!*_
+_*WOW!, 300 HITS!*_
