@@ -1,0 +1,33 @@
+[package]
+name = "hogosu.js"
+version = "0.7.6"  #:version
+authors = ["lagalapizza_1011"]
+description = "."
+homepage = "https://github.com/SH0-ahacker/hogosu.js/"
+repository = "https://github.com/SH0-ahacker/hogosu.js/"
+readme = "README.md"
+keywords = ["hogosu", "js", "javascript", "angularjs", "node", "nodejs", "displaypopup", "usecamera", "video", "constraints", "stream", "bittur", "lagalapizza", "javascript-framework", "javascript-tools", "javascript-tests", "javascript-library", "javascript-plugin"]
+license = "Unlicense/MIT"
+categories = ["programation language"]
+autotests = false
+
+
+
+[lib]
+name = "hogosu.js"
+
+[features]
+default = ["std"]
+std = ["memchr/use_std"]
+
+[dependencies]
+memchr = { version = "2.2.0", default-features = false }
+
+[dev-dependencies]
+doc-comment = "0.3.1"
+
+[profile.release]
+debug = true
+
+[profile.bench]
+debug = true
