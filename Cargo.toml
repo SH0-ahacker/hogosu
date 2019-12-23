@@ -1,5 +1,5 @@
 [package]
-name = "hogosu.js"
+name = "hogosu"
 version = "0.7.6"  #:version
 authors = ["lagalapizza_1011"]
 description = "."
