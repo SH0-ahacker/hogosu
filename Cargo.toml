@@ -13,8 +13,6 @@ autotests = false
 
 
 
-[lib]
-name = "src/lib.rs"
 
 [features]
 default = ["std"]
