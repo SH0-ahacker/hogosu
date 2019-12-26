@@ -11,8 +11,8 @@ license = "Unlicense/MIT"
 categories = ["programation language"]
 autotests = false
 
-
-
+[lib]
+cargo new --lib --bin
 
 [features]
 default = ["std"]
