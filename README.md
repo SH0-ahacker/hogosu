@@ -28,7 +28,9 @@ hogosu use JavaScript commands version MEGACOOL AND EASY FOR REMENBER!!!!!!!!!!!
 
 # script:
 
+
 <video autoplay=""></video>
+
 
 function useCamera () {
 
@@ -84,4 +86,4 @@ navigator.mediaDevices.getUserMedia(constraints).
 # wow wow wow wow wow
 
 
-_*WOW!, 300 HITS!*_
+_*WOW!, 380 HITS!*_
