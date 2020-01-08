@@ -1,1 +1,0 @@
-function random {Get-Random}
