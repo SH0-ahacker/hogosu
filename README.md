@@ -8,6 +8,7 @@
 [![HitCount](http://hits.dwyl.io/lagalapizza_1011/hogosujs.svg)](http://hits.dwyl.io/lagalapizza_1011/hogosujs)
 [![dependencies Status](https://david-dm.org/validate-io/nonpositive-integer-array/status.svg)](https://david-dm.org/validate-io/nonpositive-integer-array)
 [![devDependencies Status](https://david-dm.org/validate-io/nonpositive-integer-array/dev-status.svg)](https://david-dm.org/validate-io/nonpositive-integer-array?type=dev)
+[![CodeFactor](https://www.codefactor.io/repository/github/sh0-ahacker/hogosu/badge)](https://www.codefactor.io/repository/github/sh0-ahacker/hogosu)
 
 # Requiriments
 
