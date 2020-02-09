@@ -1,4 +1,4 @@
-# hogosu.js
+# hogosu
 [![JavaScript Style Guide: Good Parts](https://img.shields.io/badge/code%20style-goodparts-brightgreen.svg?style=flat)](https://github.com/dwyl/goodparts "JavaScript The Good Parts")
 [![dependencies Status](https://david-dm.org/validate-io/nonpositive-integer-array/status.svg)](https://david-dm.org/validate-io/nonpositive-integer-array)
 [![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME})
