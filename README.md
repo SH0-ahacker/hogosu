@@ -29,10 +29,10 @@ hogosu use JavaScript commands version MEGACOOL AND EASY FOR REMENBER!!!!!!!!!!!
 
 # script:
 
-
+``` html
 <video autoplay=""></video>
-
-
+```
+``` js
 function useCamera () {
 
 const constraints = {
@@ -50,7 +50,7 @@ navigator.mediaDevices.getUserMedia(constraints).
   
   
   }
-  
+```  
   
 # command
   
