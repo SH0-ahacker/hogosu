@@ -10,16 +10,7 @@
 [![devDependencies Status](https://david-dm.org/validate-io/nonpositive-integer-array/dev-status.svg)](https://david-dm.org/validate-io/nonpositive-integer-array?type=dev)
 [![CodeFactor](https://www.codefactor.io/repository/github/sh0-ahacker/hogosu/badge)](https://www.codefactor.io/repository/github/sh0-ahacker/hogosu)
 
-# Requiriments
-
-*Chocolatey
-
-
-
-
-
-
-hogosu.js is a simple programation code
+hogosu.js is a simple framework make with pure javascript
 
 # Hello Word
 
