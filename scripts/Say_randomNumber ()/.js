@@ -1,1 +1,3 @@
-alert(Math.random())
+function say_randomNumber () {
+  alert(Math.random())
+}
